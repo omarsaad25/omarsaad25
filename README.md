@@ -18,6 +18,17 @@ I'm actively building my portfolio toward a career in finance and analytics.
 
 ## 📊 Featured Projects
 
+### 🔹 Walmart Sales Analysis  
+**Tools:** Python, Pandas, Seaborn, Matplotlib  
+- Analyzed weekly sales across different stores and holiday seasons  
+- Identified top-performing stores and explored patterns by semester and quarter  
+- Used bar charts and line graphs to visualize sales fluctuations and performance  
+- Delivered actionable insights on store-level performance and seasonal impacts  
+
+[🔗Python-WalmartAnalysis.ipynb](https://github.com/omarsaad25/OmarSaadallah_Portfolio/blob/main/Project01-Python-WalmartAnalysis3.ipynb)
+
+---
+
 ### 🔹 Customer Behavior Analysis 
 **Tools:** Excel, Tableau  
 - Created calculated fields for total 2024 sales and YoY growth
