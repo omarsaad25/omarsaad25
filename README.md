@@ -36,7 +36,7 @@ I'm actively building my portfolio toward a career in finance and analytics.
 - Used bar, pie, and line charts to reveal customer trends  
 - Highlighted top-selling products and optimized shipping methods  
 
-[ElectronicSales.ipynb](https://github.com/omarsaad25/OmarSaadallah_Portfolio/blob/main/ElectronicSales.ipynb)
+[🔗ElectronicSales.ipynb](https://github.com/omarsaad25/OmarSaadallah_Portfolio/blob/main/ElectronicSales.ipynb)
 
 ---
 
@@ -47,7 +47,7 @@ I'm actively building my portfolio toward a career in finance and analytics.
 - Built a regression model to forecast salaries (noted overfitting and low R²)  
 - Focused on actionable insights for data and finance roles  
 
-[Job Salaries Analyzed.ipynb](https://github.com/omarsaad25/CognoRise-Infotech/blob/main/Job%20Salaries%20Analyzed.ipynb)
+[🔗Job Salaries Analyzed.ipynb](https://github.com/omarsaad25/CognoRise-Infotech/blob/main/Job%20Salaries%20Analyzed.ipynb)
 
 ---
 
@@ -56,7 +56,7 @@ I'm actively building my portfolio toward a career in finance and analytics.
 - Identified high-value customers and top-selling products  
 - Helped optimize product focus and retention strategies  
 
-[Super Store Project2.ipynb](https://github.com/omarsaad25/OmarSaadallah_Portfolio/blob/4bcd10329ea6ad230ac08f3a7591b9bef7b8d54a/Super%20Store%20Project2.ipynb)
+[🔗Super Store Project2.ipynb](https://github.com/omarsaad25/OmarSaadallah_Portfolio/blob/4bcd10329ea6ad230ac08f3a7591b9bef7b8d54a/Super%20Store%20Project2.ipynb)
 
 ---
 
@@ -78,5 +78,5 @@ Feel free to explore my repos or connect with me!
 ---
 
 ## Let's Connect  
-- LinkedIn: [www.linkedin.com/in/omarsaadallah]
+- LinkedIn: [Omar Saadallah](www.linkedin.com/in/omarsaadallah)
 - Email: Osaadallah89@gmail.com
